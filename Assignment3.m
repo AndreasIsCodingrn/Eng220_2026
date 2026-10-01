@@ -1,4 +1,4 @@
-
+% MAKING CHANGE MAKING CHANGE 10/01;
 filename = "C:\Users\Andreas\Downloads\dirty_cafe_sales-1.csv";
 % or place the CSV in the current folder and keep the same name
 
